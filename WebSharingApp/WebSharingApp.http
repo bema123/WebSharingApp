@@ -1,0 +1,6 @@
+@WebSharingApp_HostAddress = http://localhost:5134
+
+GET {{WebSharingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
