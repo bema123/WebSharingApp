@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebSharingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4035619aad886a35c568876ee075ced0c09ddd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22a4ea264abe97192f93aec3bb87f1d5eebbe35")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebSharingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebSharingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
