@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace WebSharingApp.Model
+namespace WebSharingApp.Data
 {
     public class ApplicationUser : IdentityUser
     {

@@ -1,4 +1,6 @@
-﻿namespace WebSharingApp.Model
+﻿using WebSharingApp.Data;
+
+namespace WebSharingApp.Model
 {
     public class Request
     {
